@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://cocolight.github.io/nav</id>
+    <title>香菜导航</title>
+    <updated>2023-10-30T14:05:52.343Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://cocolight.github.io/nav"/>
+    <link rel="self" href="https://cocolight.github.io/nav/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://cocolight.github.io/nav/images/avatar.png</logo>
+    <icon>https://cocolight.github.io/nav/favicon.ico</icon>
+    <rights>All rights reserved 2023, 香菜导航</rights>
+</feed>
